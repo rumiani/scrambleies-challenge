@@ -10,4 +10,5 @@
 (def fetch_data? (r/atom false))
 (def fetch_error? (r/atom false))
 (def help? (r/atom false))
-(def url (r/atom "https://infinite-river-12370.herokuapp.com/scramble/"))
+;; (def url (r/atom "https://infinite-river-12370.herokuapp.com/scramble/"))
+(def url (r/atom "https://http://localhost:8000//scramble/"))

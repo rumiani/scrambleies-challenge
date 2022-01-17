@@ -35,10 +35,10 @@ Create a web service that accepts two strings in a request and applies function 
 I have watched some tutorials to learn some backend and do this task, I used Ring, compojure, Hiccup and some other libraries and tools for this web service.I would like to learn more about Backend in Flexiana.
 
 **What I could do more:**
-I could add more componnents for handling diffrent errors.
-I could use a query instead of passing the strings to the URL.
-I could do some string varifications for the backend.
-I could write more tests.
+1. I could add more componnents for handling diffrent errors.
+2. I could use a query instead of passing the strings to the URL.
+3. I could do some string varifications for the backend.
+4. I could write more tests.
 
 ### TASK 3
 ```
@@ -52,10 +52,10 @@ I should say the fact that the frontend part is so similar to React and I also c
 I also used plain CSS for the UI because honestly although I know TailwindCSS but I wanted to learn diffrent usages and types of writing CSS in ClojureScript and I think I'm quit comfortable now and I can do it with Tailwind since now. 
 
 **What I could do more:**
-I could use TailwindCSS.
-I could build a better UI
-The state could be only one r/atom map.
-I could write more tests.
+1. I could use TailwindCSS.
+2. I could build a better UI
+3. The state could be only one r/atom map.
+4. I could write more tests.
 
 
 
