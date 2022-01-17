@@ -2,13 +2,14 @@
   (:require 
    [app.state :as  state]
    [goog.string :as gstring] 
+   [app.components.scramble.inputcheck-function :refer [inputcheck-function]] 
    ))
 
 (defn inputCheck 
   [input_string]
   (reset! state/fetch_data? false)
   (reset! state/fetch_error? false)
- (if (and (= (re-find #"[a-z]+" input_string) (gstring/trim input_string)) 
+ (if (and (inputcheck-function input_string) 
           (not (= @state/first_input ""))) 
    (reset! state/first_input_valid? true)
    (reset! state/first_input_valid? false)

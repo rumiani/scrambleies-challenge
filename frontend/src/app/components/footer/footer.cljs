@@ -7,7 +7,6 @@
   (.log js/console (-> e .-target .-className))
   (when (or (= (-> e .-target .-id) "app") (= (-> e .-target .-className) "fas fa-window-close"))
   (reset! state/help? false))
-  ;; 
   )
   (.addEventListener js/window "click" closeHandler)
  
