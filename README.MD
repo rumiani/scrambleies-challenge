@@ -27,8 +27,9 @@ I think it was less challenging than other tasks although I love to practice wri
 ### TASK 2
 ``` 
 Create a web service that accepts two strings in a request and applies function scramble? from previous task to them.
-Link to the source code: [web service](https://github.com/rumiani/scrambleies-challenge/blob/master/backend)
 ```
+
+**Link to the source code: [web service](https://github.com/rumiani/scrambleies-challenge/blob/master/backend)**
 
 **Comments:**
 I have watched some tutorials to learn some backend and do this task, I used Ring, compojure, Hiccup and some other libraries and tools for this web service.I would like to learn more about Backend in Flexiana.
@@ -42,8 +43,8 @@ I could write more tests.
 ### TASK 3
 ```
 Create a UI in ClojureScript with two inputs for strings and a scramble button. When the button is fired it should call the API from previous task and display a result.
-Note: solution can be found in here: [frontend ]((https://github.com/rumiani/scrambleies-challenge/blob/master/frontend))
 ```
+**The codes can be found in here: [frontend ](https://github.com/rumiani/scrambleies-challenge/blob/master/frontend)**
 
 **Comments:**
 I also have watched some tutorials about using Reagent and Shadow cljs and also some other libraries and tools and also used DOM a lot which made me feel quit comfortable with ClojureScript.
