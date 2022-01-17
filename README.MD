@@ -1,6 +1,6 @@
 ###Tasks docs
 
-**# Get in touch: [Contact Me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=maziar.rumiani@gmail.com)
+** Get in touch: [Contact Me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=maziar.rumiani@gmail.com)
 **
 
 ### TASK 1
@@ -57,5 +57,5 @@ I could write more tests.
 
 
 
-**# This is also the: [QUESTIONNAIRE](https://docs.google.com/document/d/1Kx60G7FgEDHnDJFR0yGk_MkvNSeLgh5z1fmADHEY4lM/edit?usp=sharing_eil_m&ts=61e3ee9b)
+** This is also the: [QUESTIONNAIRE](https://docs.google.com/document/d/1Kx60G7FgEDHnDJFR0yGk_MkvNSeLgh5z1fmADHEY4lM/edit?usp=sharing_eil_m&ts=61e3ee9b)
 **
