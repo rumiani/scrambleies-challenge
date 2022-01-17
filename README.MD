@@ -27,7 +27,7 @@ I think it was less challenging than other tasks although I love to practice wri
 ### TASK 2
 ``` 
 Create a web service that accepts two strings in a request and applies function scramble? from previous task to them.
-Link to the source code: [web service]()
+Link to the source code: [web service](https://github.com/rumiani/scrambleies-challenge/blob/master/backend)
 ```
 
 **Comments:**
@@ -42,7 +42,7 @@ I could write more tests.
 ### TASK 3
 ```
 Create a UI in ClojureScript with two inputs for strings and a scramble button. When the button is fired it should call the API from previous task and display a result.
-Note: solution can be found in /frontend
+Note: solution can be found in here: [frontend ]((https://github.com/rumiani/scrambleies-challenge/blob/master/frontend))
 ```
 
 **Comments:**
