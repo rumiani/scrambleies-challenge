@@ -6,7 +6,3 @@
 yarn.lock
 package-lock.json
 .DS_Store
-node_modules/
-.calva
-.clj-kondo
-.lsp

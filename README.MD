@@ -16,7 +16,7 @@ Examples:
 Solution:
 ```
 
-**Note: solution can be tested in [scramblies-function](https://github.com/rumiani/clojure-challenge/blob/main/scramblies-function.clj)**
+**Note: solution can be tested in [scramblies-function](https://github.com/rumiani/scrambleies-challenge/blob/master/scramblies-function.clj)**
 
 **Comments:**
 
@@ -25,8 +25,9 @@ I think it was less challenging than other tasks although I love to practice wri
 
 
 ### TASK 2
-``` Create a web service that accepts two strings in a request and applies function scramble? from previous task to them.
-Link to the source code: 
+``` 
+Create a web service that accepts two strings in a request and applies function scramble? from previous task to them.
+Link to the source code: [web service]()
 ```
 
 **Comments:**
